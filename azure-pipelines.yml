@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'customer-win'
+  name: 'customer-win'
 
 steps:
 - script: echo Hello, world!
