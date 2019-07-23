@@ -10,7 +10,7 @@ pool:
   name: 'customer-win'
 
 steps:
-- script: echo Hello, world Aditya  !
+- script: echo Hello, world Aditya ranjan !
   displayName: 'Run a one-line script'
 
 - script: |
