@@ -1,9 +1,8 @@
 <html>
-$$$$$$$$$$$$$$
 <head>
-#<title> Test website </title>
+<title> Test website </title>
 <h1> welcome to my website </h1>
-#</head>
+</head>
 </html>
 
 
