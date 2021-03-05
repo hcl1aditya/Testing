@@ -1,9 +1,5 @@
 apple 
-#mango
+mango
 bananaga
-#oragne
-pieneapplei
-dkdsfdlkfldskf
-sdflf;ds;flds';
-dfd
-sfsdfdsfls
+oragne
+pieneapple
